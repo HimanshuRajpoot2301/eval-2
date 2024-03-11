@@ -1,0 +1,185 @@
+#a{
+    width: 100%;
+    height: 800px;
+    background-image: url(../eval-2/Bg1.png);
+}
+#b{
+    width: 100%;
+    height: 800px;
+    background-image: url(../eval-2/BG-2.png);
+}
+nav{
+   
+    width: 90%;
+    height: 40px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 45px;
+    padding-left: 30px;
+}
+#nav{
+    width: 600px;
+height: 40px;
+background-color: black;
+color: white;
+border-radius: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15px;
+}
+#but1>button{
+background-color: rgb(219, 121, 69);
+color: white;
+font-weight: bold;
+cursor: pointer;
+width: 120px;
+height: 30;
+}
+#cont1{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 700px;
+    font-style: italic;
+    font-size: x-large;
+   padding-left: 250px;
+}
+#foot{
+    
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+#img1>img{
+    width: 500px;
+    height: 500px;
+}
+#cont2>p{
+    font-weight: 200px;
+    font-size: x-large;
+    color: white;
+}
+#cont2>h1{
+    font-weight: 200px;
+    font-size: 40px;
+    color: white;
+}
+#but2{
+    padding-left: 50px;
+}
+#but2>button{
+    
+    background-color: rgb(219, 121, 69);
+color: white;
+font-weight: bold;
+font-size: small;
+cursor: pointer;
+width: 150px;
+height: 40px;
+}
+#head2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+#cont3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+
+}
+#cont3 img{
+    border-radius: 20px;
+}
+#last{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  gap: 250px;
+
+
+}
+#img5>img{
+    width: 300px;
+    height: 300px;
+}
+#cont4>div:nth-of-type(1){
+    width: 450px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-stretch: extra-expanded;
+cursor: pointer;
+}
+#cont4>div:nth-of-type(2){
+    width: 450px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-stretch: extra-expanded;
+cursor: pointer;
+}
+#cont4>div:nth-of-type(3){
+    width: 450px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-stretch: extra-expanded;
+cursor: pointer;
+}
+#cont4>div:nth-of-type(4){
+    width: 450px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-stretch: extra-expanded;
+cursor: pointer;
+}
+#c{
+    background-image: url(../eval-2/BG-2.png);
+    width: 100%;
+    height: 40vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#c>img{
+    width: 250px;
+    height: 200px;
+}
