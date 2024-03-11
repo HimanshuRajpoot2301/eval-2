@@ -34,6 +34,7 @@ border-radius: 30px;
 background-color: rgb(219, 121, 69);
 color: white;
 font-weight: bold;
+font-family: "Shojumaru", system-ui;
 cursor: pointer;
 width: 120px;
 height: 30;
@@ -48,6 +49,7 @@ height: 30;
     font-weight: 700px;
     font-style: italic;
     font-size: x-large;
+    font-family: "Shojumaru", system-ui;
    padding-left: 250px;
 }
 #foot{
@@ -67,11 +69,13 @@ height: 30;
     font-weight: 200px;
     font-size: x-large;
     color: white;
+    font-family: "Shojumaru", system-ui;
 }
 #cont2>h1{
     font-weight: 200px;
     font-size: 40px;
     color: white;
+    font-family: "Shojumaru", system-ui;
 }
 #but2{
     padding-left: 50px;
@@ -83,6 +87,7 @@ color: white;
 font-weight: bold;
 font-size: small;
 cursor: pointer;
+font-family: "Shojumaru", system-ui;
 width: 150px;
 height: 40px;
 }
@@ -93,6 +98,7 @@ height: 40px;
     justify-content: center;
     align-items: center;
     color: red;
+    font-family: "Shojumaru", system-ui;
     font-size: 45px;
     font-weight: 600;
 
@@ -132,6 +138,7 @@ height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Shojumaru", system-ui;
 font-stretch: extra-expanded;
 cursor: pointer;
 }
@@ -144,6 +151,7 @@ cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Shojumaru", system-ui;
 font-stretch: extra-expanded;
 cursor: pointer;
 }
@@ -155,6 +163,7 @@ cursor: pointer;
     border-radius: 20px;
     display: flex;
     justify-content: center;
+    font-family: "Shojumaru", system-ui;
     align-items: center;
 font-stretch: extra-expanded;
 cursor: pointer;
@@ -165,6 +174,7 @@ cursor: pointer;
     background-color: black;
     color: white;
     border-radius: 20px;
+    font-family: "Shojumaru", system-ui;
     display: flex;
     justify-content: center;
     align-items: center;
